@@ -1,0 +1,12 @@
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Dependency dosyaları
+node_modules/
+
+# Cache dosyaları
+.cache/
+
+# Local storage
+.DS_Store 
